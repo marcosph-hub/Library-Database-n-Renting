@@ -10,7 +10,7 @@ def get_db_connection():
             host='localhost',
         	database='mylibrary',
 		    user='postgres',
-            password='1234')
+            password='adbd2324')
     return conn
 
 # Default route
